@@ -2,7 +2,7 @@
 
 <div style="text-align:center">
   <a href="http://codecombat.com/">
-    <img src ="http://www.comete.com/files/stallergenes_site.jpg" />
+    <img src ="http://hpics.li/353f88c" />
   </a>
 </div>
 
