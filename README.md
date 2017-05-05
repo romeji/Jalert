@@ -13,3 +13,7 @@ L’objectif de l’application est de pouvoir être déployée sur un Raspberry
 ## Mes tâches :
 
 La tâche qui m’a été confiée est de réaliser la partie gestion d’astreinte et gestion du personnel. L’application doit pouvoir créer des utilisateurs ainsi que des groupes d’utilisateurs. Elle doit également pouvoir programmer leurs semaines d’astreinte et ce pour chaque groupe d’utilisateurs. L’application doit pouvoir aussi créer des semaines d’astreinte « type », c’est-à-dire un modèle type de semaine d’astreinte directement applicable à une semaine.
+
+## Exécuter L'application :
+Vous pouvez avoir accès à l'application en cliquant directement dans le dossier Jalert 
+Un dossier "Démo Executable" Permet d'avoir directement l'application compilé et prêt a l'emploi
