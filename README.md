@@ -15,7 +15,7 @@ Dans le cadre de mon activité au sein de ma société, j’ai dû réaliser un 
 
 ## Les Objectifs :
 
-L’objectif de l’application est de pouvoir être déployée sur un Raspberry Pi, l’application doit dialoguer avec la supervision industrielle de l’organisation et rapatrier les messages d’erreurs de machines d’une ligne de production et pouvoir informer le personnel technique d’astreinte par message sur leurs téléphones d’entreprise du problème survenu. 
+L’objectif de l’application est de pouvoir être déployée sur un Raspberry Pi, l’application doit dialoguer avec une supervision industrielle de l’organisation et rapatrier les messages d’erreurs de machines d’une ligne de production et pouvoir informer le personnel technique d’astreinte par message sur leurs téléphones d’entreprise du problème survenu. 
 
 
 ## Mes tâches :
