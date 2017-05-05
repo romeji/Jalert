@@ -1,4 +1,4 @@
-# Jalert
+<center> # Jalert </center>
 ## Application de gestion d'astreinte
 
 <div style="text-align:center">
