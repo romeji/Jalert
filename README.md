@@ -8,7 +8,7 @@ Application de gestion d'astreinte développé
 </div>
 
 
-Contexte : 
+## Contexte : 
 
 Dans le cadre de mon activité au sein de la société Sap2i, j’ai dû réaliser un module d’une application développée par ma société d’accueil Sap2i. Cette application intitulée « Jalert », est une application de gestion d’astreinte brevetée. 
 
