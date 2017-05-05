@@ -2,7 +2,7 @@
 
 <div style="text-align:center">
   <a href="http://codecombat.com/">
-    <img src ="http://hpics.li/353f88c" />
+    <img src ="https://img4.hostingpics.net/pics/259399PrtScrcapture.jpg" />
   </a>
 </div>
 
