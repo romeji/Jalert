@@ -1,4 +1,11 @@
 # Jalert
+
+<div style="text-align:center">
+  <a href="http://codecombat.com/">
+    <img src ="http://www.comete.com/files/stallergenes_site.jpg" />
+  </a>
+</div>
+
 Application de gestion d'astreinte développé
 Contexte : 
 
