@@ -1,5 +1,5 @@
 # Jalert
-Application de gestion d'astreinte
+## Application de gestion d'astreinte
 
 <div style="text-align:center">
   <a href="http://codecombat.com/">
